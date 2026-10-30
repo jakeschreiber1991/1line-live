@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://1line.llc/sitemap.xml
